@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #bdcc94;
+}
+
+.container {
+    width: 80%;
+    margin-top: 6%;
+}
+
+.from-control {
+    display: flex;
+    margin-top: 3%;
+    margin-left: 25%;
+    width: 50%;
+    align-items: center;
+}
+
+.change-bg {
+    margin-left: 25%;
+    margin-top: 3%;
+    width: 50%;
+}
+
+.change-bg button {
+    margin-top: 2%;
+}
